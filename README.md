@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @banty0163
+- 👋 Hi, I’m banty0163
 - 👀 I’m interested in web development 
 - 🌱 I’m currently information technology
 
